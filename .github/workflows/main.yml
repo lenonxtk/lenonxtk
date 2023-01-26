@@ -1,4 +1,4 @@
-`Fé em Deus.` 
+/*`Fé em Deus.` 
 
 
 
@@ -41,7 +41,7 @@ V = vermelho ("1"), L = laranja ("0"),
 `Jogador 1 venceu a partida.`
 [
 https://drive.google.com/file/d/14OOxPeFlGNqN_7rSLb8qEFOTfMlbGnay/view](url)
-
+*/
 #include <stdio.h>
 
   int main() {
