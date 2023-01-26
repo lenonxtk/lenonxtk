@@ -41,3 +41,17 @@ V = vermelho ("1"), L = laranja ("0"),
 `Jogador 1 venceu a partida.`
 [
 https://drive.google.com/file/d/14OOxPeFlGNqN_7rSLb8qEFOTfMlbGnay/view](url)
+
+#include <stdio.h>
+
+  int main() {
+
+    printf("Boa ideia");
+    printf("$ Sua_Pontuação");
+    printf(""\n" @Seu_Nome"); 
+    printf("Entrar/n. Senha:/@/"); 
+    printf(""\n" Nome x Nome "\n\" \local @,"); 
+    printf("Perfil.pontuação ou $");
+ 
+ return 0;
+ }**
