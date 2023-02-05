@@ -1,4 +1,4 @@
-/*`Fé em Deus.` 
+###*`Fé em Deus.` 
 
 
 
@@ -6,42 +6,42 @@
 
 
 
-\*Ex: Jogador //
-//- [vermelho + laranja + laranja ] 
+||*Ex: Jogador //
+||- [vermelho + laranja + laranja ] 
 
-//**contra**
+||**contra**
 
-//Ex: Jogador 2
-//- [vermelho + vermelho + vermelho ]
+||Ex: Jogador 2
+||- [vermelho + vermelho + vermelho ]
 
-//`REGRAS`
-//**Os jogadores não podem saber dos planos do adversário, ect...
-//Espaço livre serve de mais jogadores.
-//Não pode jogar sozinho.
-//É permitido fazer somas.
-//Digítos negativos não são permitidos.
-//Válido ("1") e ("0"), salvo criando dezena, centena.**
-//Cores váriadas como vermelho e laranja é o recomendado, porém se desejar azul, amarelo, preto, ect... É permitido.
+||`REGRAS`
+||**Os jogadores não podem saber dos planos do adversário, ect...
+||Espaço livre serve de mais jogadores.
+||Não pode jogar sozinho.
+||É permitido fazer somas.
+||Digítos negativos não são permitidos.
+||Válido ("1") e ("0"), salvo criando dezena, centena.**
+||Cores váriadas como vermelho e laranja é o recomendado, porém se desejar azul, amarelo, preto, ect... É permitido.
 
-// Ambos players com 100 pontos.
+|| Ambos players com 100 pontos.
 
-//<table>
-//|TOTAL <th>V<th><th>V<th><tr>|
-|<th> <th>V<th><th>L<th><tr>|
-|<th> 100<th>V<th><th>L<th><tr>|
+||<table>
+|||TOTAL <th>V<th><th>V<th><tr>|
+||<th> <th>V<th><th>L<th><tr>|
+||<th> 100<th>V<th><th>L<th><tr>|
             |   <th><th>89|
 
-//</table>
+||</table>
 
-//V = vermelho ("1"), L = laranja ("0"),
+||V = vermelho ("1"), L = laranja ("0"),
 
-// jogador 2, 111, acima de seu total.
-89 - 100 = `11`
+|| jogador 2, 111, acima de seu total.
+||89 - 100 = `11`
 
-/`Jogador 1 venceu a partida.`
-//[
-//https://drive.google.com/file/d/14OOxPeFlGNqN_7rSLb8qEFOTfMlbGnay/view](url)
-*/
+||Jogador 1 venceu a partida.`
+||[
+||/https://drive.google.com/file/d/14OOxPeFlGNqN_7rSLb8qEFOTfMlbGnay/view](url)
+#*/
 #include <stdio.h>
 
   int main() {
