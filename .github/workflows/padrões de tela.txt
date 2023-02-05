@@ -1,0 +1,28 @@
+<th> repeat
+<main> int == ("1"); ("noname"); ("readme");
+1 0 0   ||  0 1 1 || 1 0 1 || 100 || 001 || 0 0 0 
+0 1 0   ||  1 1 0 || 0 1 0 || 010 || 010 || 1 0 0 //
+0 0 1   ||  0 0 0 || 1 0 1 || 001 || 100 || 0 0 0
+
+<th> passed 
+0 1 0   ||  1 1 0 || 0 1 0 // passed
+1 0 0   ||  0 0 0 || 1 0 1 // passed
+1 0 0   ||  0 1 0 || 0 0 1 // done
+
+</th> close
+||0 0 1 || 
+||0 0 1 = repeat ||
+||1 0 0 = return
+
+#include <stdio.h>
+
+int main() {
+	printf("100");
+	return 0;
+}
+
+0 == shield
+nobackspace == repeat
+if <continue> norepeat
+
+By: J@hn gamer
